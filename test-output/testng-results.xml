@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19885" started-at="2016-05-30T02:26:04Z" finished-at="2016-05-30T02:26:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19885" started-at="2016-05-30T02:26:04Z" finished-at="2016-05-30T02:26:24Z">
+      <class name="scripts.Chrome_Program">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:scripts.Chrome_Program@56f4468b]" name="beforeClass" is-config="true" duration-ms="13314" started-at="2016-05-29T19:26:04Z" finished-at="2016-05-29T19:26:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testChromeLaunch()[pri:0, instance:scripts.Chrome_Program@56f4468b]" name="testChromeLaunch" duration-ms="5189" started-at="2016-05-29T19:26:18Z" finished-at="2016-05-29T19:26:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChromeLaunch -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:scripts.Chrome_Program@56f4468b]" name="afterClass" is-config="true" duration-ms="1317" started-at="2016-05-29T19:26:23Z" finished-at="2016-05-29T19:26:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- scripts.Chrome_Program -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
