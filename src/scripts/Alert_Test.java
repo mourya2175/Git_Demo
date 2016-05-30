@@ -26,6 +26,7 @@ public class Alert_Test {
 //		driver.switchTo().alert().dismiss(); //to click on NO/Cancel button
 		//click on cancellation
 		driver.findElement(By.id("ctl00_ibtnCancelTicket")).click();
+		System.out.println("This is a change");
 	}
 	@BeforeClass
 	public void beforeClass() {
